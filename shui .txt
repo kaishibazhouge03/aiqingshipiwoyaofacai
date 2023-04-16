@@ -1,0 +1,13 @@
+https://goerli.portal.zksync.io/faucet   推特领0.001
+https://faucet.triangleplatform.com/ethereum/goerli   0.001
+https://zksync-faucet.pk910.de/    挖
+https://faucet.quicknode.com/ethereum/goerli     分享领0.25
+测试币 Goerli ETH，领取入口集合
+goerlifaucet.com
+faucets.chain.link
+faucet.polygon.technology
+app.mycrypto.com/faucet
+faucet.triangleplatform.com/ethereum/goerli
+zk.link/app/faucet/l1
+faucet.paradigm.xyz
+goerli-faucet.pk910.de
